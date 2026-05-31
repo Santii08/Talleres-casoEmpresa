@@ -35,7 +35,9 @@ Se analizó el proceso completo usando marcos de Arquitectura Empresarial (TOGAF
 
 ---
 
+## Demo de la Solución
 Se deja anexo en el proyecto la demo de la solución en un .zip, el cual contiene los programas, el power bi y un manual de instrucciones.
+https://drive.google.com/drive/folders/1oaXBs_xLqiCbGnRJV8utc5J6UxOT6LtC?usp=sharing
 
 ---
 
